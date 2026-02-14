@@ -1,60 +1,67 @@
-🌐 CMS Landing Page Produk Berbasis Laravel
-📌 Deskripsi Project
+# 🌐 CMS Landing Page Produk Berbasis Laravel
 
-Project ini dikembangkan selama kegiatan magang sebagai Content Management System (CMS) berbasis web yang digunakan untuk mengelola landing page promosi dan pemesanan produk secara dinamis.
+## 📌 Deskripsi Project
+Project ini dikembangkan selama kegiatan magang sebagai **Content Management System (CMS) berbasis web** yang digunakan untuk mengelola landing page promosi dan pemesanan produk secara dinamis.
 
-Sistem ini memungkinkan admin mengelola produk dengan mudah melalui dashboard, serta memungkinkan user melihat dan melakukan pemesanan produk melalui landing page yang responsif dan user-friendly.
-Website ini dirancang untuk mendukung berbagai jenis produk seperti:
+Sistem ini memungkinkan **admin mengelola produk dengan mudah** melalui dashboard, serta memungkinkan **user melihat dan melakukan pemesanan produk melalui landing page** yang responsif dan user-friendly.
 
-    📚 Buku
-    📖 Ebook
-    🎓 Kelas Online
-    👕 Kaos
-    🧥 Baju
-    📦 Produk lainnya
+### Website ini dirancang untuk mendukung berbagai jenis produk seperti:
 
-🚀 Fitur Utama
-🔐 Admin Panel
+* 📚 Buku
+* 📖 Ebook
+* 🎓 Kelas Online
+* 👕 Kaos
+* 🧥 Baju
+* 📦 Produk lainnya
 
-    Login autentikasi admin
-    Dashboard admin
-    Tambah produk
-    CRUD produk (Tambah, Edit, Hapus, Lihat)
-    Kelola kategori produk
-    Kelola diskon dan harga produk
+---
 
-🌐 Landing Page (User)
+## 🚀 Fitur Utama
+### 🔐 Admin Panel
+* Login autentikasi admin
+* Dashboard admin
+* Tambah produk
+* CRUD produk (Tambah, Edit, Hapus, Lihat)
+* Kelola kategori produk
+* Kelola diskon dan harga produk
 
-    Menampilkan produk secara dinamis
-    Detail produk
-    Tampilan landing page menarik
-    Responsive design (Desktop & Mobile)
-    Sistem pemesanan produk
 
-🛠 Teknologi yang Digunakan
-Backend
+### 🌐 Landing Page (User)
+* Menampilkan produk secara dinamis
+* Detail produk
+* Tampilan landing page menarik
+* Responsive design (Desktop & Mobile)
+* Sistem pemesanan produk
 
-    Laravel
-    PHP
-    MySQL
+---
 
-Frontend
+## 🛠 Teknologi yang Digunakan
 
-    HTML
-    CSS
-    Bootstrap
-    JavaScript
-    Blade
+### Backend
 
-Tools
+* Laravel
+* PHP
+* MySQL
 
-    Laragon
-    Visual Studio Code
-    Git
-    GitHub
+### Frontend
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Blade
 
-📂 Struktur Folder Utama
+### Tools
 
+* Laragon
+* Visual Studio Code
+* Git
+* GitHub
+
+---
+
+## 📂 Struktur Folder Utama
+
+```
 CMS-Project Website/
 │
 ├── app/
@@ -79,28 +86,40 @@ CMS-Project Website/
 ├── .env
 ├── composer.json
 └── README.md
+```
 
-👨‍💻 Tujuan Pengembangan
+---
+
+## 👨‍💻 Tujuan Pengembangan
 
 Project ini dibuat untuk:
 
-    Mendukung kebutuhan promosi produk berbasis web
-    Mempermudah admin dalam mengelola produk
-    Memberikan pengalaman user yang mudah dan nyaman
-    Sebagai bagian dari kegiatan magang dan pengembangan skill fullstack web developer
+* Mendukung kebutuhan promosi produk berbasis web
+* Mempermudah admin dalam mengelola produk
+* Memberikan pengalaman user yang mudah dan nyaman
+* Sebagai bagian dari kegiatan magang dan pengembangan skill fullstack web developer
 
-👤 Developer
+---
+
+## 👤 Developer
 
 Dikembangkan oleh:
 
-    Nama: Adam DWinoto
-    Status: Mahasiswa (Web Developer)
-    Kegiatan: Project Magang
-    GitHub: https://github.com/AdamDWinoto1
+* **Nama:** Adam DWinoto
+* **Status:** Mahasiswa (Web Developer)
+* **Kegiatan:** Project Magang
+* **GitHub:** https://github.com/AdamDWinoto1
 
-📄 Lisensi
+---
+
+## 📄 Lisensi
 
 Project ini dibuat untuk tujuan pembelajaran, pengembangan, dan kegiatan magang.
-⭐ Penutup
+
+---
+
+## ⭐ Penutup
 
 Project ini merupakan implementasi website CMS menggunakan Laravel yang dapat dikembangkan lebih lanjut menjadi sistem e-commerce atau platform penjualan online yang lebih kompleks.
+
+---
