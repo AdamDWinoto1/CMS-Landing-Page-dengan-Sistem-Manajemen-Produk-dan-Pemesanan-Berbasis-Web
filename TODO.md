@@ -1,0 +1,2 @@
+- [x] Bersihkan routes/web.php: hapus route '/' yang duplikat, biarkan hanya satu Route::get('/', [LandingPageController::class, 'index'])->name('home');
+- [x] Jalankan server Laravel untuk menguji apakah membuka landing page dengan menu utama

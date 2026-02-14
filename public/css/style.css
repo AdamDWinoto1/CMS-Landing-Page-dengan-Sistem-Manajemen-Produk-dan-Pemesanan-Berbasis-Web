@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-links {
+    list-style: none;
+    display: none;
+}
+
+.nav-links.active {
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: 60px;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.nav-links li {
+    margin: 10px 0;
+}
+
+.hamburger {
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.category-section {
+    padding: 20px;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.product {
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 180px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+/* Opsional */
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pagination nav {
+    display: inline-block;
+}
+
+.pagination a, .pagination span {
+    margin: 0 5px;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    color: #333;
+    text-decoration: none;
+}
+
+.pagination .active span {
+    background: #333;
+    color: white;
+    border-color: #333;
+}
+
+/* untuk Logo */
+/* .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: #333;
+    color: white;
+}
+
+.logo img {
+    height: 40px;
+} */
