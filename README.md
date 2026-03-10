@@ -59,37 +59,6 @@ Sistem ini memungkinkan **admin mengelola produk dengan mudah** melalui dashboar
 
 ---
 
-## 📂 Struktur Folder Utama
-
-```
-CMS-Project Website/
-│
-├── app/
-│   ├── Http/Controllers/
-│   ├── Models/
-│
-├── database/
-│   ├── migrations/
-│   ├── seeders/
-│
-├── public/
-│   ├── images/
-│   ├── css/
-│   ├── js/
-│
-├── resources/
-│   ├── views/
-│
-├── routes/
-│   ├── web.php
-│
-├── .env
-├── composer.json
-└── README.md
-```
-
----
-
 ## 👨‍💻 Tujuan Pengembangan
 
 Project ini dibuat untuk:
